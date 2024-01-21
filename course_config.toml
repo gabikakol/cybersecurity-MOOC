@@ -1,0 +1,85 @@
+course = "mooc-securing-software-23"
+
+[exercises."part1-01.portscanner"]
+id = 197233
+checksum = "bbdac082bd5307d8f5606d7a5eaeac21"
+
+[exercises."part1-02.helloweb"]
+id = 197228
+checksum = "ba619326332221832008e95157b30f20"
+
+[exercises."part1-03.calculator"]
+id = 197231
+checksum = "b0606bd7216e65731bb7ae98cc10c67a"
+
+[exercises."part1-04.templates"]
+id = 197229
+checksum = "411705691da6e1fe6700da529ab47268"
+
+[exercises."part1-05.hellolist"]
+id = 197230
+checksum = "3af56b4ed90bdf5cddd2c8437bab76d5"
+
+[exercises."part1-06.notebook"]
+id = 197232
+checksum = "7bfbb6af44bd05edd07fce68a5071c0d"
+
+[exercises."part2-07.tasks"]
+id = 197234
+checksum = "77dc03a6406a9de2826a13b292402626"
+
+[exercises."part2-08.hellodatabase"]
+id = 197239
+checksum = "2fc933eddffed1ca0353ff0c3a9a6d80"
+
+[exercises."part2-09.helloinsert"]
+id = 197235
+checksum = "c87e2e2e14d18e92c2048a3aee40f7db"
+
+[exercises."part2-10.hellowebwithdatabase"]
+id = 197237
+checksum = "d9b5c11e750713182c5ba306e3daf07d"
+
+[exercises."part2-11.banktransfer"]
+id = 197238
+checksum = "0719c8e8fba1d5635dd7e21eafec59bf"
+
+[exercises."part2-12.simplebanking"]
+id = 197240
+checksum = "f56a12a82caaae090d70d6c4d45b7410"
+
+[exercises."part2-13.sessionhijack"]
+id = 197236
+checksum = "a699d272a1fdfade3da71f1673aaa3ac"
+
+[exercises."part3-14.injection"]
+id = 197220
+checksum = "7b054fcb991c2ef1f93bba13d7602cbb"
+
+[exercises."part3-15.hihaupload"]
+id = 197223
+checksum = "8576e2de7d078e2a0b776eed9a7a9766"
+
+[exercises."part3-16.xss"]
+id = 197222
+checksum = "e2a410ac10fc83ac7441e82088cdff3c"
+
+[exercises."part3-17.safety"]
+id = 197221
+checksum = "b684d550be5be0c7801bc67ddfe45b2f"
+
+[exercises."part3-18.csrf"]
+id = 197224
+checksum = "f18ef8c5351da7caf09cd1da0a649e7b"
+
+[exercises."part4-19.password"]
+id = 197225
+checksum = "b6ef7fbddf82d061a306d60eaa137dfa"
+
+[exercises."part5-20.configuration"]
+id = 197227
+checksum = "2c1fa0cec9415e0cc3755493e6d1f6af"
+
+[exercises."part5-21.millionaire"]
+id = 197226
+checksum = "83e1ccb0d39c897249cd30d150ef7292"
